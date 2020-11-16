@@ -1,11 +1,9 @@
 import React from 'react';
-import superagent from 'superagent';
 
 import './form.scss';
 
-
 class Form extends React.Component {
-	
+
 	constructor(props) {
 		super(props);
 		this.state = {
