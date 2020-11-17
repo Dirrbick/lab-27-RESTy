@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lab-27-RESTy/static/css/main.abfe4216.chunk.css",
-    "main.js": "/lab-27-RESTy/static/js/main.19cfcbcd.chunk.js",
-    "main.js.map": "/lab-27-RESTy/static/js/main.19cfcbcd.chunk.js.map",
+    "main.css": "/lab-27-RESTy/static/css/main.5047f4d0.chunk.css",
+    "main.js": "/lab-27-RESTy/static/js/main.700cdd64.chunk.js",
+    "main.js.map": "/lab-27-RESTy/static/js/main.700cdd64.chunk.js.map",
     "runtime-main.js": "/lab-27-RESTy/static/js/runtime-main.c21c2571.js",
     "runtime-main.js.map": "/lab-27-RESTy/static/js/runtime-main.c21c2571.js.map",
     "static/js/2.f76c33b6.chunk.js": "/lab-27-RESTy/static/js/2.f76c33b6.chunk.js",
     "static/js/2.f76c33b6.chunk.js.map": "/lab-27-RESTy/static/js/2.f76c33b6.chunk.js.map",
     "index.html": "/lab-27-RESTy/index.html",
-    "static/css/main.abfe4216.chunk.css.map": "/lab-27-RESTy/static/css/main.abfe4216.chunk.css.map",
+    "static/css/main.5047f4d0.chunk.css.map": "/lab-27-RESTy/static/css/main.5047f4d0.chunk.css.map",
     "static/js/2.f76c33b6.chunk.js.LICENSE.txt": "/lab-27-RESTy/static/js/2.f76c33b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c21c2571.js",
     "static/js/2.f76c33b6.chunk.js",
-    "static/css/main.abfe4216.chunk.css",
-    "static/js/main.19cfcbcd.chunk.js"
+    "static/css/main.5047f4d0.chunk.css",
+    "static/js/main.700cdd64.chunk.js"
   ]
 }
